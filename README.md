@@ -3,7 +3,7 @@ LargeCoreDataExample
 
 Example code: Parse JSON data of 10,000 items into Core Data objects on iOS, with a background operation queue.
 
-The video is now up here: https://vimeo.com/81466705
+*The video is now up here: https://vimeo.com/81466705*
 
 Extra-credit challenges (not covered in this tutorial):
 -------------------------------------------------------
